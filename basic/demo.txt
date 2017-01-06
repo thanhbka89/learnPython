@@ -1,0 +1,3 @@
+Hello all!
+Welcome to STDIO.
+My name's Mido. I'm a author of STDIO.
