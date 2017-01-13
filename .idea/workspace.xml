@@ -1,7 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="870be5b9-3420-42ff-96e7-2b7494b5ea2a" name="Default" comment="" />
+    <list default="true" id="870be5b9-3420-42ff-96e7-2b7494b5ea2a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/PythonBasic.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/Chuoi.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/Dictionary.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/Dung_Module.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/FirstProject.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/Ham.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/List.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/Modun.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/NgayGio.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/NhapLieu.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/ThaoTac_File.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/Tuple.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/VongLap.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/demo.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/demo_file2.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/db/ThaoTac_MySQL.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/db/ThaoTac_Redis.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/Location.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/crawl_site.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/demo.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/demo_xlwt.xls" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/get_images.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/ghi_excel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/read_excel.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/internet/ThaoTac_Json.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypack/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypack/module1.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mypack/module2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/object/Animal.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/socket/client.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/socket/server.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/util/ThaoTac_arrow.py" afterPath="" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,12 +51,12 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="get_images.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo/get_images.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="57" column="28" lean-forward="false" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
+            <state relative-caret-position="204">
+              <caret line="51" column="34" lean-forward="true" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
               <folding>
                 <element signature="e#24#33#0" expanded="true" />
                 <element signature="e#759#1077#0" expanded="false" />
@@ -28,11 +65,56 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="img_list_file.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/demo/img_list_file.txt">
+      <file leaf-file-name="spider.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/spider/spider.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-100758">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/spider/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get_manga24h.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/spider/get_manga24h.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+                <element signature="e#79#105#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="284">
+              <caret line="58" column="6" lean-forward="false" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="domain.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/demo/spider/domain.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -55,6 +137,13 @@
       <list>
         <option value="$PROJECT_DIR$/demo/get_images.py" />
         <option value="$PROJECT_DIR$/demo/img_list_file.txt" />
+        <option value="$PROJECT_DIR$/demo/crawlerino.py" />
+        <option value="$PROJECT_DIR$/demo/domain.py" />
+        <option value="$PROJECT_DIR$/demo/spider.py" />
+        <option value="$PROJECT_DIR$/demo/spider/spider.py" />
+        <option value="$PROJECT_DIR$/demo/spider/main.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/demo/spider/get_manga24h.py" />
       </list>
     </option>
   </component>
@@ -84,25 +173,57 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PythonBasic" />
+              <option name="myItemId" value="python_basic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PythonBasic" />
+              <option name="myItemId" value="python_basic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PythonBasic" />
+              <option name="myItemId" value="python_basic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="PythonBasic" />
+              <option name="myItemId" value="python_basic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python_basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python_basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spider" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python_basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="python_basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="basic" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -112,43 +233,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/msysgit/msysgit/bin/git.exe" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Python.get_images">
-    <configuration default="false" name="Chuoi" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonBasic" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basic/Chuoi.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="crawl_site" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="PythonBasic" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/crawl_site.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\github\python_basic\demo\spider" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.get_manga24h">
     <configuration default="false" name="read_excel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,6 +272,57 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonBasic" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/get_images.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="crawlerino" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonBasic" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/crawlerino.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo/spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonBasic" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/spider/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="get_manga24h" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo/spider" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PythonBasic" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/spider/get_manga24h.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -317,18 +461,20 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Python.Chuoi" />
-      <item index="1" class="java.lang.String" itemvalue="Python.crawl_site" />
-      <item index="2" class="java.lang.String" itemvalue="Python.read_excel" />
-      <item index="3" class="java.lang.String" itemvalue="Python.get_images" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.read_excel" />
+      <item index="1" class="java.lang.String" itemvalue="Python.get_images" />
+      <item index="2" class="java.lang.String" itemvalue="Python.crawlerino" />
+      <item index="3" class="java.lang.String" itemvalue="Python.main" />
+      <item index="4" class="java.lang.String" itemvalue="Python.get_manga24h" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.get_images" />
-        <item index="1" class="java.lang.String" itemvalue="Python.read_excel" />
-        <item index="2" class="java.lang.String" itemvalue="Python.crawl_site" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Chuoi" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.get_manga24h" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main" />
+        <item index="2" class="java.lang.String" itemvalue="Python.crawlerino" />
+        <item index="3" class="java.lang.String" itemvalue="Python.get_images" />
+        <item index="4" class="java.lang.String" itemvalue="Python.read_excel" />
       </list>
     </recent_temporary>
   </component>
@@ -349,22 +495,22 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17708333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21510416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.50208336" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41393876" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -372,114 +518,16 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/demo/crawl_site.py">
+    <entry file="file://$PROJECT_DIR$/demo/get_images.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#15#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/yeu-quai-phuong-nao-vay-troi.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/yeu-mau-tim-3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/yeu-luon-tu-cai-nhin-dau-tien-3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/yeu-em-roi-day-3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/yeu-em-khong-nao.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/yeu-em-khong-cac-anh.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/yeu-em-di-em-se-ke-cho-anh-nghe-ve-dai-duong-xanh.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/yeu-cmnr.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/yeu-ca-cai-dang-dung-luon-3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/y-ta-ma-the-nay-thi-bao-gio-moi-het-benh-day.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/xuyen-thau-la-the-do-chac-toi-chot-mat-v.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/1-chiec-ao-2-so-phan-v.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/yeu-the-nhi-3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/yeu-em-yeu-luon-ca-dang-ngoi-3.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/yeu-em-khong.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/yeu-em-anh-dam-khong.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/xinh-vay-sao-chiu-noi-day.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/xinh-the.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/get_images.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="57" column="28" lean-forward="false" selection-start-line="57" selection-start-column="28" selection-end-line="57" selection-end-column="28" />
           <folding>
             <element signature="e#24#33#0" expanded="true" />
             <element signature="e#759#1077#0" expanded="false" />
@@ -487,10 +535,150 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/img_list_file.txt">
+    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/yeu-quai-phuong-nao-vay-troi.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/yeu-mau-tim-3.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/yeu-luon-tu-cai-nhin-dau-tien-3.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/yeu-em-roi-day-3.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/yeu-em-khong-nao.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/yeu-em-khong-cac-anh.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/yeu-em-di-em-se-ke-cho-anh-nghe-ve-dai-duong-xanh.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/yeu-cmnr.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/yeu-ca-cai-dang-dung-luon-3.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/y-ta-ma-the-nay-thi-bao-gio-moi-het-benh-day.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/xuyen-thau-la-the-do-chac-toi-chot-mat-v.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/1-chiec-ao-2-so-phan-v.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/yeu-the-nhi-3.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/yeu-em-yeu-luon-ca-dang-ngoi-3.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/yeu-em-khong.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/yeu-em-anh-dam-khong.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/xinh-vay-sao-chiu-noi-day.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/xinh-the.jpg" />
+    <entry file="file://$PROJECT_DIR$/demo/img_list_file.txt" />
+    <entry file="file://$PROJECT_DIR$/demo/crawl_site.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100758">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python/python352/Lib/urllib/parse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4845">
+          <caret line="287" column="4" lean-forward="false" selection-start-line="287" selection-start-column="4" selection-end-line="287" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/crawlerino.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#131#1" expanded="false" />
+            <element signature="e#132#150#0" expanded="true" />
+            <element signature="e#423#639#1" expanded="false" />
+            <element signature="e#2332#3343#0" expanded="false" />
+            <element signature="e#2332#2456#1" expanded="false" />
+            <element signature="e#2798#3085#0" expanded="false" />
+            <element signature="e#3259#3311#0" expanded="false" />
+            <element signature="e#3466#4309#0" expanded="false" />
+            <element signature="e#3466#3685#1" expanded="false" />
+            <element signature="e#4027#4120#0" expanded="false" />
+            <element signature="e#4419#4947#0" expanded="false" />
+            <element signature="e#4610#4929#0" expanded="false" />
+            <element signature="e#5079#5379#1" expanded="false" />
+            <element signature="e#5630#5785#0" expanded="false" />
+            <element signature="e#5726#5769#0" expanded="false" />
+            <element signature="e#5905#6509#0" expanded="false" />
+            <element signature="e#5905#6227#1" expanded="false" />
+            <element signature="e#6626#7048#0" expanded="false" />
+            <element signature="e#6626#6872#1" expanded="false" />
+            <element signature="e#7155#7458#1" expanded="false" />
+            <marker date="1484204643864" expanded="false" signature="1544:1668" ph="..." />
+            <marker date="1484204643864" expanded="false" signature="1851:2138" ph="..." />
+            <marker date="1484204643864" expanded="false" signature="2007:2138" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/spider/domain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/spider/spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/spider/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/get_images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="51" column="34" lean-forward="true" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+            <element signature="e#759#1077#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/spider/img/Love-Riron-Chap-22-trang-0-Manga24h.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/spider/img/Love-Riron-Chap-22-trang-1-Manga24h.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/spider/img/Love-Riron-Chap-22-trang-2-Manga24h.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/spider/img/Love-Riron-Chap-22-trang-3-Manga24h.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/spider/img/Love-Riron-Chap-22-trang-4-Manga24h.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/spider/get_manga24h.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <element signature="e#79#105#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="58" column="6" lean-forward="false" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
           <folding />
         </state>
       </provider>
