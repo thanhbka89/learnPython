@@ -2,42 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="870be5b9-3420-42ff-96e7-2b7494b5ea2a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/PythonBasic.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/Chuoi.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/Dictionary.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/Dung_Module.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/FirstProject.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/Ham.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/List.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/Modun.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/NgayGio.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/NhapLieu.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/ThaoTac_File.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/Tuple.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/VongLap.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/demo.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/basic/demo_file2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/ThaoTac_MySQL.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/db/ThaoTac_Redis.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/Location.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/crawl_site.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/demo.xlsx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/demo_xlwt.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/get_images.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/ghi_excel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/demo/read_excel.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/internet/ThaoTac_Json.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mypack/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mypack/module1.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/mypack/module2.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/object/Animal.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/socket/client.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/socket/server.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/util/ThaoTac_arrow.py" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advanced/multithread/Example.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advanced/multithread/Example2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advanced/multithread/main.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advanced/multithread/multithread.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advanced/multithread/parallel.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/advanced/multithread/thread_deamon.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/crawler_email.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/karma_bot.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,69 +25,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="get_images.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/get_images.py">
+      <file leaf-file-name="parallel.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/advanced/multithread/parallel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="51" column="34" lean-forward="true" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
-              <folding>
-                <element signature="e#24#33#0" expanded="true" />
-                <element signature="e#759#1077#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spider.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/spider/spider.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/spider/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-              <folding>
-                <element signature="e#0#16#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="get_manga24h.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/spider/get_manga24h.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-              <folding>
-                <element signature="e#0#21#0" expanded="true" />
-                <element signature="e#79#105#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="58" column="6" lean-forward="false" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="domain.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/demo/spider/domain.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="19" />
+            <state relative-caret-position="238">
+              <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -128,6 +43,13 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>basic</find>
+      <find>source</find>
+      <find>Thread-10</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -144,6 +66,17 @@
         <option value="$PROJECT_DIR$/demo/spider/main.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/demo/spider/get_manga24h.py" />
+        <option value="$PROJECT_DIR$/demo/spider/get_gif_9gag.py" />
+        <option value="$PROJECT_DIR$/advanced/multithread/thread_deamon.py" />
+        <option value="$PROJECT_DIR$/advanced/multithread/main.py" />
+        <option value="$PROJECT_DIR$/advanced/multithread/multithread.py" />
+        <option value="$PROJECT_DIR$/demo/crawler_email.py" />
+        <option value="$PROJECT_DIR$/demo/karma_bot.py" />
+        <option value="$PROJECT_DIR$/advanced/multithread/Example.py" />
+        <option value="$PROJECT_DIR$/advanced/multithread/Example2.py" />
+        <option value="$PROJECT_DIR$/advanced/multithread/parallel.py" />
+        <option value="$PROJECT_DIR$/advanced/multithread/demo/download.py" />
+        <option value="$PROJECT_DIR$/advanced/multithread/demo/single.py" />
       </list>
     </option>
   </component>
@@ -205,25 +138,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="demo" />
+              <option name="myItemId" value="advanced" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="spider" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python_basic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python_basic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="basic" />
+              <option name="myItemId" value="multithread" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -241,8 +160,8 @@
       <recent name="D:\github\python_basic\demo\spider" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.get_manga24h">
-    <configuration default="false" name="read_excel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.single">
+    <configuration default="false" name="crawl_site" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -254,75 +173,75 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonBasic" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/read_excel.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/crawl_site.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="get_images" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced/multithread" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonBasic" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/get_images.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced/multithread/Example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="crawlerino" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Example2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced/multithread" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonBasic" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/crawlerino.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced/multithread/Example2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="parallel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo/spider" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced/multithread" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonBasic" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/spider/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced/multithread/parallel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="get_manga24h" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="single" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/demo/spider" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced/multithread/demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="PythonBasic" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo/spider/get_manga24h.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced/multithread/demo/single.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -462,19 +381,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.read_excel" />
-      <item index="1" class="java.lang.String" itemvalue="Python.get_images" />
-      <item index="2" class="java.lang.String" itemvalue="Python.crawlerino" />
-      <item index="3" class="java.lang.String" itemvalue="Python.main" />
-      <item index="4" class="java.lang.String" itemvalue="Python.get_manga24h" />
+      <item index="0" class="java.lang.String" itemvalue="Python.crawl_site" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Example" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Example2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.parallel" />
+      <item index="4" class="java.lang.String" itemvalue="Python.single" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.get_manga24h" />
-        <item index="1" class="java.lang.String" itemvalue="Python.main" />
-        <item index="2" class="java.lang.String" itemvalue="Python.crawlerino" />
-        <item index="3" class="java.lang.String" itemvalue="Python.get_images" />
-        <item index="4" class="java.lang.String" itemvalue="Python.read_excel" />
+        <item index="0" class="java.lang.String" itemvalue="Python.single" />
+        <item index="1" class="java.lang.String" itemvalue="Python.parallel" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Example2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Example" />
+        <item index="4" class="java.lang.String" itemvalue="Python.crawl_site" />
       </list>
     </recent_temporary>
   </component>
@@ -495,13 +414,13 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21510416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21510416" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41393876" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44456178" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -519,7 +438,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -529,7 +448,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#24#33#0" expanded="true" />
             <element signature="e#759#1077#0" expanded="false" />
           </folding>
         </state>
@@ -554,58 +472,10 @@
     <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/xinh-vay-sao-chiu-noi-day.jpg" />
     <entry file="file://$PROJECT_DIR$/demo/ngamvnn_saved_images/xinh-the.jpg" />
     <entry file="file://$PROJECT_DIR$/demo/img_list_file.txt" />
-    <entry file="file://$PROJECT_DIR$/demo/crawl_site.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Python/python352/Lib/urllib/parse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4845">
           <caret line="287" column="4" lean-forward="false" selection-start-line="287" selection-start-column="4" selection-end-line="287" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/crawlerino.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#131#1" expanded="false" />
-            <element signature="e#132#150#0" expanded="true" />
-            <element signature="e#423#639#1" expanded="false" />
-            <element signature="e#2332#3343#0" expanded="false" />
-            <element signature="e#2332#2456#1" expanded="false" />
-            <element signature="e#2798#3085#0" expanded="false" />
-            <element signature="e#3259#3311#0" expanded="false" />
-            <element signature="e#3466#4309#0" expanded="false" />
-            <element signature="e#3466#3685#1" expanded="false" />
-            <element signature="e#4027#4120#0" expanded="false" />
-            <element signature="e#4419#4947#0" expanded="false" />
-            <element signature="e#4610#4929#0" expanded="false" />
-            <element signature="e#5079#5379#1" expanded="false" />
-            <element signature="e#5630#5785#0" expanded="false" />
-            <element signature="e#5726#5769#0" expanded="false" />
-            <element signature="e#5905#6509#0" expanded="false" />
-            <element signature="e#5905#6227#1" expanded="false" />
-            <element signature="e#6626#7048#0" expanded="false" />
-            <element signature="e#6626#6872#1" expanded="false" />
-            <element signature="e#7155#7458#1" expanded="false" />
-            <marker date="1484204643864" expanded="false" signature="1544:1668" ph="..." />
-            <marker date="1484204643864" expanded="false" signature="1851:2138" ph="..." />
-            <marker date="1484204643864" expanded="false" signature="2007:2138" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/spider/domain.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -623,18 +493,7 @@
         <state relative-caret-position="136">
           <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
           <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/demo/get_images.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="51" column="34" lean-forward="true" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
-          <folding>
-            <element signature="e#24#33#0" expanded="true" />
-            <element signature="e#759#1077#0" expanded="false" />
+            <element signature="e#0#16#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -664,6 +523,22 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="58" column="6" lean-forward="false" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/spider/domain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/demo/spider/get_manga24h.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -675,10 +550,152 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/demo/spider/get_gif_9gag.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="58" column="6" lean-forward="false" selection-start-line="58" selection-start-column="6" selection-end-line="58" selection-end-column="6" />
+        <state relative-caret-position="272">
+          <caret line="42" column="45" lean-forward="true" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/get_images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="21" />
+          <folding>
+            <element signature="e#759#1077#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/karma_bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="817">
+          <caret line="221" column="17" lean-forward="false" selection-start-line="221" selection-start-column="17" selection-end-line="221" selection-end-column="17" />
+          <folding>
+            <element signature="e#1174#1184#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/crawlerino.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#131#1" expanded="false" />
+            <element signature="e#132#150#0" expanded="true" />
+            <element signature="e#423#639#1" expanded="false" />
+            <element signature="e#2332#3343#0" expanded="false" />
+            <element signature="e#2332#2456#1" expanded="false" />
+            <element signature="e#2798#3085#0" expanded="false" />
+            <element signature="e#3259#3311#0" expanded="false" />
+            <element signature="e#3466#4309#0" expanded="false" />
+            <element signature="e#3466#3685#1" expanded="false" />
+            <element signature="e#4027#4120#0" expanded="false" />
+            <element signature="e#4419#4947#0" expanded="false" />
+            <element signature="e#4610#4929#0" expanded="false" />
+            <element signature="e#5079#5379#1" expanded="false" />
+            <element signature="e#5630#5785#0" expanded="false" />
+            <element signature="e#5726#5769#0" expanded="false" />
+            <element signature="e#5905#6509#0" expanded="false" />
+            <element signature="e#5905#6227#1" expanded="false" />
+            <element signature="e#6626#7048#0" expanded="false" />
+            <element signature="e#6626#6872#1" expanded="false" />
+            <element signature="e#7155#7458#1" expanded="false" />
+            <marker date="1484204643864" expanded="false" signature="1544:1668" ph="..." />
+            <marker date="1484204643864" expanded="false" signature="1851:2138" ph="..." />
+            <marker date="1484204643864" expanded="false" signature="2007:2138" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/crawl_site.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="35" lean-forward="true" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/multithread/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/multithread/thread_deamon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="86" lean-forward="false" selection-start-line="7" selection-start-column="86" selection-end-line="7" selection-end-column="86" />
+          <folding>
+            <element signature="e#530#546#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/multithread/Example2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="18" column="56" lean-forward="true" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
+          <folding>
+            <element signature="e#59#70#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo/crawler_email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/multithread/Example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/multithread/multithread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/multithread/demo/single.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/multithread/demo/download.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="43" lean-forward="true" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced/multithread/parallel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="40" lean-forward="false" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
           <folding />
         </state>
       </provider>
